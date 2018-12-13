@@ -1,4 +1,4 @@
 # hello-world
 Goofing around
-Making my first edits 
-Rocking' around the Christmas tree
+Making my second edits...\. 
+still rocking' around the Christmas tree!
